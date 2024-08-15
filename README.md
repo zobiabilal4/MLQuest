@@ -30,3 +30,5 @@ Enter the required health information and click "Predict" to view the prediction
 - app.py: The main Streamlit application file.
 - model_pipeline.pkl: The saved machine learning model and preprocessing pipeline.
 - requirements.txt: A list of Python dependencies required to run the application.
+  you can easily install all the requirement by only running the code : pip install -r requirements.txt
+
